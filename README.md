@@ -2,9 +2,9 @@
 
 Esse projeto foi criado a partir do curso de React js do Matheus Fraga
 
-# Tecnologias utilizadas:
--> React
--> CSS
--> Requisições e consumo de API
+Tecnologias utilizadas:
+* React
+* CSS
+* Requisições e consumo de API
 
-#Link da aplicação: https://reactnutri.netlify.app/
+Visualização da aplicação: https://reactnutri.netlify.app/
